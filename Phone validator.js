@@ -69,7 +69,7 @@
 
 
 
-
+// Validator------------
 "validators": {
     "PhoneNumberValidator": {
         "type": Terrasoft.ViewModelValidatorTypes.CUSTOM,
