@@ -24,7 +24,7 @@
 			                    $context: request.$context,
 			                    dialogConfig: {
 			                        data: {
-			                            message: phone + " - Phone number must contain digits only",
+			                            message: phone + " - Phone number must contains digits only",
 			                            actions: [{
 			                                key: "OK",
 			                                config: { color: "primary", caption: "OK" }
